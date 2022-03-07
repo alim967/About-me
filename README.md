@@ -1,8 +1,10 @@
+<!---
 - 👋 Hi, I’m @alim967
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+--->
 
 <!---
 alim967/alim967 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +20,9 @@ I joined Revature to step into the IT industry.
 During my training at Revature, I am learning multiple new technologies every week and I’ve been working on projects where 
 I gained experience in full stack web application building and implementation and skilled on Talend for data integration. 
 
-    Build application using business rules and policies, UI actions between client, server, and database.
-    Worked on projects using frontend technologies (HTML, CSS, JS).
-    Learned and demonstrated skills in data management.
-    Strong ability for solving problems, and able to work collaboratively within a team or independently.
-    Self-motivated and excited to learn new technologies and explore new solutions.
-    Strong oral and written communication skills.
+    *Build application using business rules and policies, UI actions between client, server, and database.
+    *Worked on projects using frontend technologies (HTML, CSS, JS).
+    *Learned and demonstrated skills in data management.
+    *Strong ability for solving problems, and able to work collaboratively within a team or independently.
+    *Self-motivated and excited to learn new technologies and explore new solutions.
+    *Strong oral and written communication skills.
