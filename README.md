@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 I am Associate at Revature and attending the training to learn distinct new technologies every day to become full stack java developer. 
 I graduated with Cum Laude honors from the City University of New York(CUNY) with a bachelor of science degree in computer information systems in May 2020. 
-After graduating from Lehman I was preparing myself for the various government jobs.
+After graduating from CUNY I was preparing myself for the various government jobs.
 
 While I was searching for the job without any practical skills in IT fields, fortunately I explore the rewarding opportunities that Revature offering. 
 I joined Revature to step into the IT industry.
