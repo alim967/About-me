@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Hello World! 👋
 
-I am Associate at Revature and attending the training to learn distinct new technologies every day to become full stack java developer. 
+I am Associate at Revature and attending the training to learn distinct new technologies every day to become full stack Java/ETL developer. 
 I graduated with Cum Laude honors from the City University of New York(CUNY) with a bachelor of science degree in computer information systems in May 2020. 
 After graduating from CUNY I was preparing myself for the various government jobs.
 
