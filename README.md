@@ -21,10 +21,11 @@ I joined Revature to step into the IT industry.
 
 During my training at Revature, I am learning multiple new technologies every week and I’ve been working on projects where 
 I gained experience in full stack web application building and implementation and skilled on Talend for data integration. 
+- Build application using business rules and policies, UI actions between client, server, and database.
+- Worked on projects using frontend technologies (HTML, CSS, JS).
+- Learned and demonstrated skills in data management.
+- Strong ability for solving problems, and able to work collaboratively within a team or independently.
+- Self-motivated and excited to learn new technologies and explore new solutions.
+- Strong oral and written communication skills.
 
-    - Build application using business rules and policies, UI actions between client, server, and database.
-    - Worked on projects using frontend technologies (HTML, CSS, JS).
-    - Learned and demonstrated skills in data management.
-    - Strong ability for solving problems, and able to work collaboratively within a team or independently.
-    - Self-motivated and excited to learn new technologies and explore new solutions.
-    - Strong oral and written communication skills.
+   
